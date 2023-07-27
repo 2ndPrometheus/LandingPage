@@ -2,6 +2,8 @@
 
 This project is a web-based platform developed for the Global Campus initiative by the University of Helsinki. The platform showcases a gamified virtual learning environment aimed at studying sustainable development. The website consists of two main pages: the index page, which introduces the game, and the game-page, where the actual game is streamed from an AWS cloud server.
 
+Link to page: http://landing-page-serendip.s3-website.eu-north-1.amazonaws.com/
+
 ## Technologies Used
 
 The website is built using the following technologies:
